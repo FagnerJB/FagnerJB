@@ -10,10 +10,10 @@
 
 ### 🤘 **E nas horas vagas**
 * Diagramador e capista na [Phocvlos](https://phocvlos.ml/), editora para autores independentes.
-* Editor-chefe do [Deutsche Bands](https://dbands.com.br/), maior site sobre bandas em alemãs.
+* Editor-chefe do [Deutsche Bands](https://dbands.com.br/), maior site sobre bandas alemãs.
 
 Trabalhando atualmente nos repositórios fixados.
 
-Mais informações e contato:  
+Mais informações e contato  
 [![FagnerJB.com](https://img.shields.io/badge/-FagnerJB.com-282A36?style=flat-square&logo=Javascript&logoColor=white&link=https://fagnerjb.com)](https://fagnerjb.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerjb/)](https://www.linkedin.com/in/fagnerjb/)
