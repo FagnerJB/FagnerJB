@@ -1,7 +1,7 @@
 ## Chamo-me Fagner. Eu sou...
 
 ### 🖥️ **Desenvolvedor Fullstack JS**
-* CSS, ECMAScript, ePub, HTML, MongoDB, MySQL, Node.js, PHP, React, React Native, Python, Shell, Typescript, Wordpress
+* Com familiaridade em CSS, ECMAScript, ePub, HTML, MongoDB, MySQL, Node, PHP, React, React Native, Python, Shell, Typescript e Wordpress.
 
 ### 📚 **Escritor de ficção**
 * Autor de 7:06, Warld, Excertos Incertos e *em breve* Saudoso Futuro.
