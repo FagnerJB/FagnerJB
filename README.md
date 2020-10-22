@@ -1,5 +1,3 @@
-# Código e poesia
-
 ## Chamo-me Fagner. Eu sou...
 
 ### 🖥️ **Desenvolvedor Fullstack JS**
